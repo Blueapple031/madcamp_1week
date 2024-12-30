@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">끼니 거르지 말아요</string>
+    <string name="myapp_by_yl">
+        MyAPP by YL SY
+    </string>
+    <string name="contacts">Contacts</string>
+    <string name="gallery">Gallery</string>
+    <string name="coming_soon">Coming Soon...</string>
+</resources>
